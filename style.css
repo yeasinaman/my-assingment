@@ -45,5 +45,13 @@ h2{
     width: 25%;
 }
 .padding-two{
-    padding-left: 70px;
+    padding-left: 70px;}
+
+.background-class{
+    background-color: rgb(109, 11, 207) ;
+    width:100px;
+    height: 200px;
+}
+.txt-align{
+    text-align: center;
 }
