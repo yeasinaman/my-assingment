@@ -35,3 +35,15 @@ h2{
     background-image: url(7.png);
     
 }
+.image-cover img{
+    width: 16%;
+}
+.padding{
+    padding-left: 370px;
+}
+#width-two p{
+    width: 25%;
+}
+.padding-two{
+    padding-left: 70px;
+}
